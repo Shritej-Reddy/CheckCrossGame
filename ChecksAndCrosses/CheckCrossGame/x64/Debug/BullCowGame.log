@@ -1,0 +1,8 @@
+﻿  FBullCowGame.cpp
+FBullCowGame.cpp(13): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+FBullCowGame.cpp(19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+FBullCowGame.cpp(81): warning C4267: 'initializing': conversion from 'size_t' to 'int32', possible loss of data
+  main.cpp
+  Generating Code...
+  FBullCowGame.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  BullCowGame.vcxproj -> C:\Users\tejur\OneDrive\Desktop\OOP PROJECT\BulleAndCows\x64\Debug\BullCowGame.exe
